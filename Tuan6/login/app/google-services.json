@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803023314066",
+    "project_id": "login-aaff2",
+    "storage_bucket": "login-aaff2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803023314066:android:306b93cc010d4a26d15a4b",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803023314066-k4l1bnjhiaedi78sf6ih5mu9s980seqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "5ee4a5189f4062aca8e59d5a47c9a8aa28da956c"
+          }
+        },
+        {
+          "client_id": "803023314066-gh14sp6l5fokhrfmecm05nn331q19lu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aq7xRW-cugCstpZ0MwnsqXHIXpvC05g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803023314066-gh14sp6l5fokhrfmecm05nn331q19lu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

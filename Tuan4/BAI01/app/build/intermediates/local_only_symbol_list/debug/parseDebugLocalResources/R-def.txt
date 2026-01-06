@@ -7,11 +7,13 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable compose_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable uti_building
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
-style Theme.BAI01
+style Theme.Bai01
 xml backup_rules
 xml data_extraction_rules

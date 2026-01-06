@@ -7,6 +7,6 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">BAI01</string>
-    <style name="Theme.BAI01" parent="android:Theme.Material.Light.NoActionBar"/>
+    <string name="app_name">Bai01</string>
+    <style name="Theme.Bai01" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>
