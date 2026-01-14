@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bai01</string>
+
+    <!-- Google Sign-In client id -->
+    <string name="default_web_client_id">
+       21099310022-bl5ga35lh5l3212n45g0l7a78sflh65j.apps.googleusercontent.com
+    </string>
+</resources>
